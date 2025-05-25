@@ -121,12 +121,6 @@ Results are printed after testing on the test set.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 💬 Contact
 
 For questions or collaboration, feel free to reach out!
